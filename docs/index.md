@@ -13,4 +13,10 @@ title: Integrações na prática
 <p>Como conectar loja, notificações e backend, sem confundir as chaves. Inclui plano mensal, Pub/Sub, webhooks, EAS, testadores de licença e a separação entre teste e produção.</p>
 <a class="read" href="./guias/assinaturas-android.html">Ler o guia completo →</a>
 </section>
+<section class="article" aria-labelledby="branding-google">
+<small>AUTENTICAÇÃO · GOOGLE</small>
+<h2 id="branding-google">Nome e logo no login com Google</h2>
+<p>Configure o branding OAuth com Supabase, comprove a propriedade do domínio e publique sua marca. Inclui DNS na Hostinger e orientações para outros provedores.</p>
+<a class="read" href="./guias/branding-google-oauth-supabase.html">Ler o guia completo →</a>
+</section>
 </div>

@@ -17,7 +17,8 @@ export default defineConfig({
     sidebar: {
       '/guias/': [{ text: 'Integrações na prática', items: [
         { text: 'Todos os guias', link: '/guias/' },
-        { text: 'Assinaturas no Android', link: '/guias/assinaturas-android' }
+        { text: 'Assinaturas no Android', link: '/guias/assinaturas-android' },
+        { text: 'Branding no login Google', link: '/guias/branding-google-oauth-supabase' }
       ] }]
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/renaner123/guias-de-integracao' }],
