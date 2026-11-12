@@ -22,3 +22,9 @@ de compra e aponta o que ainda precisa ser validado no ambiente de cada leitor.
 Identificação do cliente OAuth, configuração da marca, publicação em produção e
 verificação do domínio por TXT. Inclui o procedimento feito na Hostinger e como
 adaptá-lo a outros provedores de DNS.
+
+### [E-mails do Supabase Auth com Resend](./resend-supabase.md)
+
+**Resend · Supabase Auth · SMTP**
+
+Configuração do remetente e do SMTP, recuperação de senha por código e testes de entrega.

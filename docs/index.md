@@ -19,4 +19,10 @@ title: Integrações na prática
 <p>Configure o branding OAuth com Supabase, comprove a propriedade do domínio e publique sua marca. Inclui DNS na Hostinger e orientações para outros provedores.</p>
 <a class="read" href="./guias/branding-google-oauth-supabase.html">Ler o guia completo →</a>
 </section>
+<section class="article" aria-labelledby="resend-supabase">
+<small>AUTENTICAÇÃO · E-MAIL</small>
+<h2 id="resend-supabase">E-mails do Supabase Auth com Resend</h2>
+<p>Configure domínio, chave de envio e SMTP. Inclui recuperação de senha por código, testes e diagnóstico de entrega.</p>
+<a class="read" href="./guias/resend-supabase.html">Ler o guia completo →</a>
+</section>
 </div>

@@ -18,7 +18,8 @@ export default defineConfig({
       '/guias/': [{ text: 'Integrações na prática', items: [
         { text: 'Todos os guias', link: '/guias/' },
         { text: 'Assinaturas no Android', link: '/guias/assinaturas-android' },
-        { text: 'Branding no login Google', link: '/guias/branding-google-oauth-supabase' }
+        { text: 'Branding no login Google', link: '/guias/branding-google-oauth-supabase' },
+        { text: 'E-mails com Resend', link: '/guias/resend-supabase' }
       ] }]
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/renaner123/guias-de-integracao' }],
